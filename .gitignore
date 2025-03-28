@@ -1,0 +1,49 @@
+# ========================================
+# Eclipse-specific
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven & Gradle output
+target/
+build/
+bin/
+out/
+
+# Maven Wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# Logs
+*.log
+
+# GPG-related (optional if you're signing artifacts)
+*.asc
+
+# Temporary / backup files
+*.swp
+*.swo
+*.bak
+*.tmp
+*~
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Security-conscious ignores
+*.keystore
+*.jks
+*.p12
+*.pem
+*.crt
+*.key
+*.env
+secrets.*
+.env.*
+
