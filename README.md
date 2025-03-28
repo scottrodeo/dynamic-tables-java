@@ -1,5 +1,7 @@
 # Dynamic Tables (Java)
 
+![Dynamic Tables Preview](preview.png)
+
 A lightweight Java library for dynamically creating and managing PostgreSQL tables based on input data at runtime.
 
 ---
@@ -98,8 +100,7 @@ To contribute:
 
 ## 📄 License
 
-This project is licensed under the Apache License 2.0.  
-See the LICENSE file for details.
+This project is licensed under the Apache License 2.0. See the LICENSE file for details.
 
 ---
 
