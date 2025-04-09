@@ -4,6 +4,8 @@
 
 A lightweight Java library for dynamically creating and managing PostgreSQL tables based on input data at runtime.
 
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.scottrodeo/dynamic-tables.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/io.github.scottrodeo/dynamic-tables)
+
 ---
 
 ## 🚀 Features
@@ -17,7 +19,17 @@ A lightweight Java library for dynamically creating and managing PostgreSQL tabl
 
 ## 📦 Installation
 
-### Install via GitHub (Manual Method)
+### 🔗 Maven Central (Recommended)
+
+```xml
+<dependency>
+  <groupId>io.github.scottrodeo</groupId>
+  <artifactId>dynamic-tables</artifactId>
+  <version>0.2.1</version>
+</dependency>
+```
+
+### GitHub (Manual Method)
 
 Since this package isn't on Maven Central yet, you can build and use it locally:
 
@@ -39,6 +51,13 @@ The compiled JAR will be located in:
 You can import this into your project manually or install it to your local Maven repository:
 
     ./gradlew publishToMavenLocal
+
+
+### 🧱 Gradle
+
+implementation 'io.github.scottrodeo:dynamic-tables:0.2.1'
+
+    ✅ No manual JAR downloads needed. This package is published on Maven Central.
 
 ---
 
@@ -106,8 +125,9 @@ This project is licensed under the Apache License 2.0. See the LICENSE file for 
 
 ## 🌐 Links
 
-- GitHub Repository: https://github.com/scottrodeo/dynamic-tables-java
-- Issue Tracker: https://github.com/scottrodeo/dynamic-tables-java/issues
+📦 Maven Central Listing: https://central.sonatype.com/artifact/io.github.scottrodeo/dynamic-tables
+🔧 GitHub Repository: https://github.com/scottrodeo/dynamic-tables-java
+🐞 Issue Tracker: https://github.com/scottrodeo/dynamic-tables-java/issues
 
 ---
 
