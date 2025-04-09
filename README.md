@@ -125,9 +125,9 @@ This project is licensed under the Apache License 2.0. See the LICENSE file for 
 
 ## 🌐 Links
 
-📦 Maven Central Listing: https://central.sonatype.com/artifact/io.github.scottrodeo/dynamic-tables
-🔧 GitHub Repository: https://github.com/scottrodeo/dynamic-tables-java
-🐞 Issue Tracker: https://github.com/scottrodeo/dynamic-tables-java/issues
+📦 Maven Central Listing: https://central.sonatype.com/artifact/io.github.scottrodeo/dynamic-tables  
+🔧 GitHub Repository: https://github.com/scottrodeo/dynamic-tables-java  
+🐞 Issue Tracker: https://github.com/scottrodeo/dynamic-tables-java/issues  
 
 ---
 
